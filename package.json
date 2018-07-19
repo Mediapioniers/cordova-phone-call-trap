@@ -1,9 +1,9 @@
 {
-  "name": "io.gvox.plugin.phonecalltrap",
+  "name": "cordova-phone-call-trap",
   "version": "0.1.2",
   "description": "A phone call trap",
   "cordova": {
-    "id": "io.gvox.plugin.phonecalltrap",
+    "id": "cordova-phone-call-trap",
     "platforms": [
       "android"
     ]
